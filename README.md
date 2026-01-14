@@ -1,6 +1,6 @@
 <!-- PROFILE COVER IMAGE -->
 ## 📫 Connect With Me
-- 🔗 Linktree: https://linktr.ee/Viratt737
+- 🔗 Linktree: https://www.linkedin.com/in/vineet-rajpal-187559275/
 
 ---
 <p align="center">
@@ -32,13 +32,13 @@
 </p>
 
 ## 📈 Coding Profiles
-- 🟢 **GeeksforGeeks:** College Rank **151**
+- 🟢 Leetcode-https://leetcode.com/u/Vineet_31/
 
 ## 📊 GitHub Stats
 <p align="center">
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Viratt737&theme=github_dark"
+  src="https://github-profile-summary-cards.vercel.app/demo.html"
   alt="GitHub Profile Summary"
 />
 
